@@ -1,5 +1,5 @@
 # Auto Immutable
-**[Auto Immutable JS](https://auto-immutable.js.org)** is a self-enforcing immutable data structure.
+**[Auto Immutable JS](https://auto-immutable.js.org/api/#source)** is a self-enforcing immutable data structure.
 
 ### Name:
 <strong>auto-immutable</strong><br />

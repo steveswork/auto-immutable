@@ -10,7 +10,7 @@
   "dependencies": {
     "@webkrafters/auto-immutable": "^1.0.0"
   },
-  "description": "@webkrafters/auto-immutable package dx friend wrapper",
+  "description": "@webkrafters/auto-immutable package dx friendly wrapper",
   "devDependencies": {
     "@babel/cli": "^7.17.0",
     "@babel/core": "^7.20.5",
@@ -47,5 +47,5 @@
     "build": "rm -rf dist && babel src -d dist && tsc"
   },
   "types": "dist/index.d.ts",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

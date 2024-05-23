@@ -1,7 +1,9 @@
 # Auto Immutable JS
-@webkrafters/auto-immutable.
 
 **[Auto Immutable JS](https://auto-immutable.js.org/api/#source)** is a self-enforcing immutable data structure.
+
+This is an unscoped version of the [@webkrafters/auto-immutable](https://www.npmjs.com/package/@webkrafters/auto-immutable) package.
+
 
 ### Name:
 

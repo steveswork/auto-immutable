@@ -7,9 +7,6 @@
   "contributors": [
     "steveswork <stephen.isienyi@gmail.com> (https://github.com/steveswork)"
   ],
-  "dependencies": {
-    "@webkrafters/auto-immutable": "^1.0.0"
-  },
   "description": "@webkrafters/auto-immutable package dx friendly wrapper",
   "devDependencies": {
     "@babel/cli": "^7.17.0",
@@ -47,5 +44,8 @@
     "build": "rm -rf dist && babel src -d dist && tsc"
   },
   "types": "dist/index.d.ts",
-  "version": "1.0.1"
+  "version": "1.0.2",
+  "dependencies": {
+    "@webkrafters/auto-immutable": "^1.0.1"
+  }
 }
